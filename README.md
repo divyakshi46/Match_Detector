@@ -52,7 +52,7 @@ To run this project, the following technologies and tools are required:
 ![Homepage Screenshot](https://github.com/divyakshi46/Match_Detector/blob/main/match_checker%20front.png)
 
 ### Image 2: Result Page
-![Result Page Screenshot](./path/to/your/image2.png)
+![Result Page Screenshot](https://github.com/divyakshi46/Match_Detector/blob/main/match_checker_result.png)
 
 
 ## Conclusion
