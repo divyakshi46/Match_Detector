@@ -46,6 +46,14 @@ To run this project, the following technologies and tools are required:
    - The percentage match is calculated and displayed to the user.
 
 ---
+## Project Demo
+
+### Image 1: Homepage
+![Homepage Screenshot](./path/to/your/image1.png)
+
+### Image 2: Result Page
+![Result Page Screenshot](./path/to/your/image2.png)
+
 
 ## Conclusion
 Match Checker is an innovative solution for string matching tasks, combining algorithmic efficiency with a user-friendly interface. By employing the Rabin-Karp algorithm and integrating it into a Django-based web application, this project showcases the practical application of DSA in real-world problems. Match Checker is ideal for anyone looking for a fast and accurate string comparison tool.
